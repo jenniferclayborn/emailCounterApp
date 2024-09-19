@@ -1,0 +1,62 @@
+
+body {
+
+    background-color: #112433;
+    background-size: cover;
+    color: #e5e8ff;
+    font-family: Montserrat;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px
+}
+    img{
+        width: 50%;
+        float:left;
+}
+
+.container {
+    width: 60%;
+    background-color: rgba(30, 66, 101, 0.5); /* 90% opaque white background */
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px; /* Adds padding at the top */
+    padding-bottom: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+  
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    font-size: larger;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Montserrat;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: Montserrat;
+    font-weight: semi-bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #0188B0;
+}
+
+#save-btn {
+    background: #0F9B74;
+}
+
